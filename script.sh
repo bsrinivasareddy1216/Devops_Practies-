@@ -7,3 +7,4 @@ ls -ltr
 
 touch aaa bbb ccc
 hostname -i
+hostname
