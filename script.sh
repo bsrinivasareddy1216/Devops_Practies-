@@ -6,3 +6,4 @@ touch aa bb  cc
 ls -ltr
 
 touch aaa bbb ccc
+hostname -i
