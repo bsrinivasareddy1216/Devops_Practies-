@@ -1,7 +1,7 @@
 sudo su -
 mkdir srinu
 touch a b c
-cd /
+
 touch aa bb  cc
 ls -ltr
 
