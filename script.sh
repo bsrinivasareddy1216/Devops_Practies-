@@ -1,3 +1,4 @@
+sudo su -
 mkdir srinu
 touch a b c
 cd /
