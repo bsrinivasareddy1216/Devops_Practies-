@@ -1,3 +1,3 @@
 hostname -i
-cat /etc/resolve.conf
+cat /etc/resolv.conf
 touch a aa aaa aaaa
